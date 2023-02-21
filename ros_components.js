@@ -1,5 +1,5 @@
 var ros = new ROSLIB.Ros({
-  url: 'ws://localhost:9090'
+  url: 'ws://10.0.0.1:9090'
 });
 
 function init() {
